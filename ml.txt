@@ -1,0 +1,12 @@
+data collection 
+data cleaning
+data preparation 
+exploratory data analysis
+model fitting/ training
+testing and deployment
+types of ml problems
+linear regression 
+decision tree
+svm
+logistic regression 
+knn
