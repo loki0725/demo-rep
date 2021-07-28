@@ -10,3 +10,7 @@ decision tree
 svm
 logistic regression 
 knn
+
+asd,m,sdalmsd;
+sf
+datafdfsdfsf
