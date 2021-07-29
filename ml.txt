@@ -1,5 +1,5 @@
 data collection 
-data cleaning
+data cleaning part 4
 data preparation 
 exploratory data analysis
 model fitting/ training
