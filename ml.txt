@@ -9,11 +9,11 @@ linear regression (for continuous output)
 decision tree
 svm (Support vector machine)
 logistic regression  (Supervised machine learning)
-knn
+knn 1 & 2 3&4 
 
 asd,m,sdalmsd;
 sf
-datafdfsdfsf
+datafdfsdfsf 5 & 6
 
 
 sdfassfsdf
