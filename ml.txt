@@ -5,7 +5,7 @@ exploratory data analysis
 model fitting/ training
 testing and deployment
 types of ml problems
-linear regression 
+linear regression (for continuous output)
 decision tree
 svm (Support vector machine)
 logistic regression 
