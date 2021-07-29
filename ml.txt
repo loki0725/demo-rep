@@ -8,7 +8,7 @@ types of ml problems
 linear regression (for continuous output)
 decision tree
 svm (Support vector machine)
-logistic regression 
+logistic regression  (Supervised machine learning)
 knn
 
 asd,m,sdalmsd;
