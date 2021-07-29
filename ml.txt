@@ -7,7 +7,7 @@ testing and deployment
 types of ml problems
 linear regression 
 decision tree
-svm
+svm (Support vector machine)
 logistic regression 
 knn
 
