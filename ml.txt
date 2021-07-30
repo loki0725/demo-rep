@@ -12,3 +12,5 @@ logistic regression  (Supervised machine learning)
 knn 1 & 2 3&4 
 
 just
+
+sdsdss
